@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adamantiaa
-- 👀 I’m a Technologist  
-- 🌱 I’m currently learning how to build scalable applications
-- 💞️ I’m looking to collaborate on interesting AI projects  
+- 👀 I’m a Principal TPM based in New York   
+- 🌱 I’m currently learning how to build AI/ML solutions
+- 💞️ I’m looking to collaborate on interesting AI/ML projects  
 - 📫 Reach me at adamantial.com 
 
 <!---
